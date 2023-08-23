@@ -1,14 +1,11 @@
 import React from "react";
 import {
-  AiFillTwitterCircle,
   AiFillGithub,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
-import { FiDownload } from "react-icons/fi";
+import { FaLinkedinIn } from "react-icons/fa";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Resume.pdf";
 
 
 const Hero = () => {
@@ -26,11 +23,11 @@ const Hero = () => {
             <TypeAnimation
               data-aos="fade-up"
               sequence={[
-                "Fullstack Developer",
+                "Backend Developer",
                 2000,
                 "AI Enthusiast",
                 2000,
-                "Backend Developer",
+                ""
               ]}
               speed={30}
               wrapper="h2"
