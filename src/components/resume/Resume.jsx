@@ -35,23 +35,21 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                  BACKEND ENGINEER
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                  VIA PULSA GLOBAL INDONESIA
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  June 2023 - Present
+                  Mar 2023 – Now
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                  i created an automation program using the python programming language, where it will correlate with the backend api.
+                  and i filled those two roles. i handle python automation and also communication between api to backend.
+                  in using cloud technology, i use digital ocean which is integrated into bitbucket.
                 </p>
               </div>
+
             </div>
           </fieldset>
         </div>
@@ -73,21 +71,19 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.Tech, Computer Science
+                  Bachelor of Computer Science
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  College Name
+                  Universitas Teknologi Yogyakarta
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2023 - Year 2027
+                  Year 2018 - Year 2022
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                  I'm a backend developer with in Machine Learning and Programming.
+                  I have also participated in several competitions and organizational activities on campus, eve now I am still involved in that.
+                  in several cases in lectures and outside lectures and I often solve cases that I upload to gitlab. I passionate about AI(Actificial Intelegent) and i've make so project for detection object.
+                  So now i'm working as Backend with Golang, Java Springb nodeJS and Python Technology.
                 </p>
               </div>
             </div>

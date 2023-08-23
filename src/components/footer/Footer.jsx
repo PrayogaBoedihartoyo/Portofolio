@@ -14,7 +14,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1000"
 
-            href=""
+            href="https://t.me/Prayoga_Boedihartoyo"
             className="box font-medium text-white   flex items-center justify-center flex-col"
           >
             <FaTelegramPlane className=" text-black text-3xl hover:scale-125 cursor-pointer" />
@@ -23,7 +23,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1200"
 
-            href=""
+            href="https://api.whatsapp.com/send/?phone=6281387585910&text&type=phone_number&app_absent=0"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <IoLogoWhatsapp className=" text-black text-3xl hover:scale-125 cursor-pointer" />
@@ -32,7 +32,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1400"
 
-            href=""
+            href="https://www.instagram.com/praa28/"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <RiInstagramFill className=" text-black text-3xl hover:scale-125 cursor-pointer" />
@@ -40,7 +40,7 @@ const Footer = () => {
           </a>
         </div>
         <div className="sm:text-[12px]">
-          | Copyright &copy; <span>2023 Dev AlphaSpace </span> All rights reserved
+          | Copyright &copy; <span>Prayoga Boedihartoyo </span>
           <a href="#"></a> |
         </div>
       </div>

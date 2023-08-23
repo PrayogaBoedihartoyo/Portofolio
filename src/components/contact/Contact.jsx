@@ -56,7 +56,7 @@ const Contact = () => {
             <input
               className="px-3 shadow-[0_0_16px_0px_rgba(0,0,0,0.1)] p-2 rounded-lg w-full"
               type="text"
-              placeholder="e.g. John Doe"
+              placeholder="e.g. <somename>"
               name=""
             />
             <textarea
@@ -68,9 +68,7 @@ const Contact = () => {
               id=""
             />
             <button
-              className="bg-yellow-500 w-full text-white font-semibold  p-2 rounded-lg flex items-center justify-center space-x-1"
-              type="submit"
-            >
+              className="bg-yellow-500 w-full text-white font-semibold  p-2 rounded-lg flex items-center justify-center space-x-1" type="submit">
               <span>Send</span>
               <RiSendPlaneFill/>
             </button>

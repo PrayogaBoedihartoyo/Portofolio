@@ -13,7 +13,7 @@ import resumePDF from "../../assets/Resume.pdf";
 
 const Hero = () => {
   return (
-    <div id="home" className={` bg-gradient-to-r from-green-200 to-blue-200 `}>
+    <div id="home" className={` bg-gray-600 `}>
       <div className=" container mx-auto pt-5 h-[750px] md:h-[100vh] md:flex-col-reverse sm:h-[780px]  flex sm:flex-col-reverse sm:pt-0 ">
         <div className=" left mt-4 md:mt-0 flex-1 flex flex-col justify-center gap-5 w-1/2 md:w-full md:py-2 sm:py-0">
           <div className="info w-fit flex flex-col items-start justify-center gap-3 sm:gap-2">
@@ -21,16 +21,16 @@ const Hero = () => {
               data-aos="fade-up"
               className=" text-5xl font-bold sm:text-[2rem]"
             >
-              Hello, I'm John  Doe
+              Hello, I'm Prayoga Boedihartoyo.
             </h2>
             <TypeAnimation
               data-aos="fade-up"
               sequence={[
-                "Web Developer",
+                "Fullstack Developer",
                 2000,
-                "Freelancer",
+                "AI Enthusiast",
                 2000,
-                "",
+                "Backend Developer",
               ]}
               speed={30}
               wrapper="h2"
@@ -41,7 +41,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-              Lorem ipsum dolor sit amet consectetur
+                I am a Fullstack Developer and AI Enthusiast. I have a passion for web development and love to create for web and mobile devices.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
@@ -51,15 +51,6 @@ const Hero = () => {
             >
               <span> Hire Me</span>
             </a>
-            <a
-              href={resumePDF}
-              className="flex items-center gap-2 border- text-[1rem] bg-white border-black px-7 py-2 sm:px-6 rounded-lg font-bold  hover:text-yellow-500"
-              download
-            >
-              <div className="flex items-center gap-1">
-                Resume <FiDownload />
-              </div>
-            </a>
           </div>
           <div className="icons flex mt-5">
             <ul
@@ -68,33 +59,21 @@ const Hero = () => {
               className=" flex gap-5"
             >
               <li>
-                <a href="">
+                <a href="https://github.com/PrayogaBoedihartoyo">
                   {" "}
                   <AiFillGithub className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125" />{" "}
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.linkedin.com/in/prayoga-boedihartoyo/">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
               </li>
               <li>
-                <a href="">
+                <a href="https://www.instagram.com/praa28/">
                   {" "}
                   <AiFillInstagram className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
-                </a>
-              </li>
-              <li>
-                <a href="">
-                  {" "}
-                  <FaFacebook className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
-                </a>
-              </li>
-              <li>
-                <a href="">
-                  {" "}
-                  <AiFillTwitterCircle className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
               </li>
             </ul>
@@ -104,8 +83,8 @@ const Hero = () => {
           <div className="relative h-[88%] w-fit flex items-center sm:items-end">
             <img
             data-aos="fade-up"
-              className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src='https://i.postimg.cc/pTn61Gr1/Untitled-design222-modified.png'
+              className=" h-[114%]  w-[95%] object-cover md:h-[50%] md:m-auto sm:m-auto sm:h-[70%]"
+              src='https://firebasestorage.googleapis.com/v0/b/database-viapulsa.appspot.com/o/FCMImages%2FDSC_1304-removebg-preview.png?alt=media&token=38859ad1-769a-43ea-a595-5d0d831b822e'
               // src={mine}
               alt="mine"
             />
