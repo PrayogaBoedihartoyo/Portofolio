@@ -23,7 +23,7 @@ const Hero = () => {
             <TypeAnimation
               data-aos="fade-up"
               sequence={[
-                "Backend Developer",
+                "Fullstack Mobile Developer",
                 2000,
                 "AI Enthusiast",
                 2000,
@@ -38,7 +38,7 @@ const Hero = () => {
               // data-aos="fade-up"
               className=" text-[1.1rem] font-medium w-3/4 md:w-full text-gray-600 sm:text-[.95rem]"
             >
-                I am a Fullstack Developer and AI Enthusiast. I have a passion for web development and love to create for web and mobile devices.
+                I am a Fullstack Mobile Developer and AI Enthusiast. I have a passion for web development and love to create for web and mobile devices.
             </p>
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
