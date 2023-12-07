@@ -81,7 +81,7 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[114%]  w-[95%] object-cover md:h-[50%] md:m-auto sm:m-auto sm:h-[70%]"
-              src='https://firebasestorage.googleapis.com/v0/b/database-viapulsa.appspot.com/o/FCMImages%2FDSC_1304-removebg-preview.png?alt=media&token=38859ad1-769a-43ea-a595-5d0d831b822e'
+              src='https://firebasestorage.googleapis.com/v0/b/database-viapulsa.appspot.com/o/fotoProfil%2Fprofile.png?alt=media&token=32a408e2-1efd-4a7c-8161-fa761ce27996'
               // src={mine}
               alt="mine"
             />
